@@ -8,7 +8,7 @@
 
 
 
-- [radioGroup](https://github.com/lordgr8t/JsWebApp/edit/main/README.md#radiogroup)
+- [radioGroup](#radiogroup)
 
 
 ## radioGroup
